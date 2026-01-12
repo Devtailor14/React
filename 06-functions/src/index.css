@@ -1,0 +1,11 @@
+input{
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+  
