@@ -8,7 +8,7 @@ const App = () => {
       newnum.age = 23
       setnum(newnum)
     }
-  
+
   return (
     <div>
       <h1>{num.user}, {num.age}</h1>
